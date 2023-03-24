@@ -1,5 +1,7 @@
 <!-- Imagem azul inicial !-->
+  <a href="https://github.com/gabriel-preti-ferraz">
   <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=5CCDEB&height=120" />
+  <a>
 <!-- Imagem azul inicial !-->
 
 
@@ -49,12 +51,16 @@
   
 <!-- Conquistas !-->  
 <p align="center">
+  <a href="https://github.com/gabriel-preti-ferraz">
   <img src="https://github-profile-trophy.vercel.app/?username=gabriel-preti-ferraz&theme=algolia&row=1&no-bg=true&margin-w=15&margin-h=15" />
+  </a>
 </p>
 <!-- Conquistas !-->  
   
   
 
-<!-- Imagem azul final !-->  
+<!-- Imagem azul final !-->
+   <a href="https://github.com/gabriel-preti-ferraz">
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=5CCDEB&height=120&section=footer" />
+  </a>
 <!-- Imagem azul final !-->  
