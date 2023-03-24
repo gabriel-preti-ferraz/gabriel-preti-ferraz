@@ -60,9 +60,9 @@
 <!-- Conquistas !-->  
   
 <!-- LuckyCodes !-->  
-          <div align="center">
+<div align="center">
  <img src="lucky-codes-verde.png">
-          </div>
+</div>
 <!-- LuckyCodes !-->  
 
 <!-- Imagem azul final !-->
