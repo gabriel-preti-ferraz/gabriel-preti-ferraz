@@ -61,9 +61,9 @@
   
 <!-- LuckyCodes !-->  
 <div align="center">
-  <p>
+  <h4>
     ☘️ Lucky Codes
-  </p>
+  </h4>
  <img src="lucky-codes-verde.png">
 </div>
 <!-- LuckyCodes !-->  
