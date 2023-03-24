@@ -61,10 +61,12 @@
   
 <!-- LuckyCodes !-->  
 <div align="center">
+  <a href="https://luckycodes.app">
   <h2>
     ☘️ Lucky Codes
   </h2>
  <img src="lucky-codes-verde.png">
+    </a>
 </div>
 <!-- LuckyCodes !-->  
 
