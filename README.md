@@ -60,6 +60,7 @@
 <!-- Conquistas !-->  
   
 <!-- LuckyCodes !-->  
+<a href="https://luckycodes.app" target="_blank">
 <div align="center">
   <a href="https://luckycodes.app" target="_blank">
   <h2>☘️ Lucky Codes</h2>
@@ -68,6 +69,7 @@
  <img src="lucky-codes-transparente.png">
   </a>
 </div>
+          </a>
 <!-- LuckyCodes !-->  
 
 <!-- Imagem azul final !-->
