@@ -65,7 +65,7 @@
   <h2>☘️ Lucky Codes</h2>
   </a>
    <a href="https://luckycodes.app" target="_blank">
- <img src="lucky-codes-verde.png">
+ <img src="lucky-codes-transparente.png">
   </a>
 </div>
 <!-- LuckyCodes !-->  
