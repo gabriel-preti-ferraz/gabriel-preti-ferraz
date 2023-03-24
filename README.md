@@ -42,9 +42,11 @@
     <a href="https://github.com/gabriel-preti-ferraz">
       <img height="150em" src="https://readme-stats-dusky.vercel.app/api?username=gabriel-preti-ferraz&show_icons=true&count_private=true&hide_border=true&title_color=5CCDEB&icon_color=5CCDEB&text_color=ffffff&bg_color=0d1117" alt="GitHub Stats" /> 
       <img height="150em" src="https://readme-stats-dusky.vercel.app/api/top-langs/?username=gabriel-preti-ferraz&layout=compact&hide_border=true&title_color=5CCDEB&text_color=ffffff&bg_color=0d1117" />
+       </a>
 </div>
+        <a href="https://github.com/gabriel-preti-ferraz">
       <img src="https://github-readme-activity-graph.cyclic.app/graph?username=gabriel-preti-ferraz&theme=react-dark"
-    </a>
+           </a>
 <!-- Status, linguagens mais utilizadas e gráfico de atividades !-->  
   
   
