@@ -69,7 +69,7 @@
  <img src="lucky-codes-transparente.png">
   </a>
 </div>
-          </a>
+</a>
 <!-- LuckyCodes !-->  
 
 <!-- Imagem azul final !-->
