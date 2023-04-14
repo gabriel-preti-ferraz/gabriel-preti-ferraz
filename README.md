@@ -4,8 +4,7 @@
   <a>
 <!-- Imagem azul inicial !-->
 
-
-
+    
 <!-- Texto inicial !-->
 <p align="center"> 
   🙋‍♂️ | Olá! Me chamo Gabriel Preti Ferraz e pretendo me tornar um Desenvolvedor <strong>Full-Stack</strong>.<br>
@@ -13,8 +12,7 @@
 </p>
 <!-- Texto inicial !-->
 
-
-
+    
 <!-- Linguagens, ferramentas e contato !-->
 <p align="center">
   🦄 | Linguagens: <strong>HTML, CSS, JavaScript, NodeJS, Python e Django</strong>
@@ -35,8 +33,7 @@
 </p>  
 <!-- Linguagens, ferramentas e contato !-->
 
-
-
+    
 <!-- Status, linguagens mais utilizadas e gráfico de atividades !-->
 <div align="center">
     <a href="https://github.com/gabriel-preti-ferraz">
@@ -49,8 +46,7 @@
            </a>
 <!-- Status, linguagens mais utilizadas e gráfico de atividades !-->  
   
-  
-  
+          
 <!-- Conquistas !-->  
 <p align="center">
   <a href="https://github.com/gabriel-preti-ferraz">
@@ -58,20 +54,8 @@
   </a>
 </p>
 <!-- Conquistas !-->  
-  
-<!-- LuckyCodes !-->  
-<!--<a href="https://luckycodes.app" target="_blank">
-<div align="center">
-  <a href="https://luckycodes.app" target="_blank">
-  <h2>☘️ Lucky Codes</h2>
-  </a>
-   <a href="https://luckycodes.app" target="_blank">
- <img src="lucky-codes-transparente.png">
-  </a>
-</div>
-</a>!-->
-<!-- LuckyCodes !-->  
 
+          
 <!-- Imagem azul final !-->
    <a href="https://github.com/gabriel-preti-ferraz">
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=5CCDEB&height=120&section=footer" />
