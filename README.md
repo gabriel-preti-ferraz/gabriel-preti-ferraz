@@ -19,7 +19,7 @@
 </p>
 
 <p align="center">
-  💼 | Ferramentas: <strong>Git, GitHub e Visual Studio Code</strong>
+  💼 | Ferramentas: <strong>Git, GitHub, Linux e Visual Studio Code</strong>
 </p>
 
 <p align="center">
