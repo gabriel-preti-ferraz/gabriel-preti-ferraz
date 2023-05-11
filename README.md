@@ -15,7 +15,7 @@
     
 <!-- Linguagens, ferramentas e contato !-->
 <p align="center">
-  🦄 | Linguagens: <strong>HTML, CSS, JavaScript, NodeJS, Python e Django</strong>
+  🧪 | Skills: <strong>HTML, CSS, JavaScript, NodeJS, Python e Django</strong>
 </p>
 
 <p align="center">
