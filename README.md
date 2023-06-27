@@ -8,7 +8,7 @@
 <!-- Texto inicial !-->
 <p align="center"> 
   🙋‍♂️ | Olá! Me chamo Gabriel Preti Ferraz e pretendo me tornar um <strong>Engenheiro de Software</strong>.<br>
-  🎓 | No momento estou estudando Python.
+  <!-- 🎓 | No momento estou estudando Python. !-->
 </p>
 <!-- Texto inicial !-->
 
