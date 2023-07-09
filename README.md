@@ -42,7 +42,7 @@
        </a>
 </div>
         <a href="https://github.com/gabriel-preti-ferraz">
-      <img src="https://github-readme-activity-graph.cyclic.app/graph?username=gabril-preti-ferraz&theme=react-dark"
+      <img src="https://github-readme-activity-graph.cyclic.app/graph?username=gabriel-preti-ferraz&theme=react-dark"
            </a>
 <!-- Status, linguagens mais utilizadas e gráfico de atividades !-->  
   
