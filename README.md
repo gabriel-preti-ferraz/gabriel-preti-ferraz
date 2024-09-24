@@ -26,15 +26,15 @@
   💌 | Contact me below: ⤵️
 </p>
 <p align="center">
-  <a href="#" target="_blank" alt="Linkedin">
+  <a href="#" target="_blank" alt="Linkedin" target="_blank">
   <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN" />
   </a>
   
-  <a href="https://github.com/gabriel-preti-ferraz" alt="GitHub">
+  <a href="https://github.com/gabriel-preti-ferraz" alt="GitHub" target="_blank">
   <img src="https://img.shields.io/badge/-Github-333333?style=flat-square&logo=github&logoColor=white&link=https://github.com/gabriel-preti-ferraz/"/>
   </a>
   
-  <a href="https://www.instagram.com/gabriel.preti.ferraz/" alt="Instagram">
+  <a href="https://www.instagram.com/gabriel.preti.ferraz/" alt="Instagram" target="_blank">
   <img src="https://img.shields.io/badge/-Instagram-E1306C?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/gabriel.preti.ferraz/"/>
   </a>
 </p>  
