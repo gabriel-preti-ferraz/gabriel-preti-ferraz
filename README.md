@@ -7,7 +7,7 @@
     
 <!-- Texto inicial !-->
 <p align="center"> 
-  🙋‍♂️ | Olá! Me chamo Gabriel Preti Ferraz, um desenvolvedor por diversão</strong>.<br>
+  🙋‍♂️ | Hello there!</strong>.<br>
   <!-- 🎓 | No momento estou estudando Python. !-->
 </p>
 <!-- Texto inicial !-->
@@ -15,15 +15,15 @@
     
 <!-- Linguagens, ferramentas e contato !-->
 <p align="center">
-  🧪 | Skills: <strong>HTML, CSS, JavaScript, NodeJS, Python e Django</strong>
+  🧪 | Skills: <strong>HTML, CSS, JavaScript, NodeJS, Python and Django</strong>
 </p>
 
 <p align="center">
-  💼 | Ferramentas: <strong>Git, GitHub, Linux e Visual Studio Code</strong>
+  💼 | Tools: <strong>Git, GitHub, Linux and Visual Studio Code</strong>
 </p>
 
 <p align="center">
-  💌 | Contate-me abaixo: ⤵️
+  💌 | Contact me below: ⤵️
 </p>
 <p align="center">
   <a href="#" target="_blank" alt="Linkedin">
