@@ -34,7 +34,7 @@
   <img src="https://img.shields.io/badge/-Github-333333?style=flat-square&logo=github&logoColor=white&link=https://github.com/gabriel-preti-ferraz/"/>
   </a>
   
-  <a href="https://github.com/gabriel-preti-ferraz" alt="Instagram">
+  <a href="https://www.instagram.com/gabriel.preti.ferraz/" alt="Instagram">
   <img src="https://img.shields.io/badge/-Instagram-E1306C?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/gabriel.preti.ferraz/"/>
   </a>
 </p>  
