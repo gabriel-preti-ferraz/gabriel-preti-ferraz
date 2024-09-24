@@ -7,7 +7,7 @@
     
 <!-- Texto inicial !-->
 <p align="center"> 
-  🙋‍♂️ | Hello there!</strong>.<br>
+  🙋‍♂️ | Hello there!<br>
   <!-- 🎓 | No momento estou estudando Python. !-->
 </p>
 <!-- Texto inicial !-->
