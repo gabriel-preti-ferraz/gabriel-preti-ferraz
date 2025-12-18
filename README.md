@@ -51,15 +51,6 @@
       <img src="https://github-readme-activity-graph.vercel.app/graph?username=gabriel-preti-ferraz&theme=react-dark"
            </a>
 <!-- Status, linguagens mais utilizadas e gráfico de atividades !-->  
-  
-          
-<!-- Conquistas !-->  
-<p align="center">
-  <a href="https://github.com/gabriel-preti-ferraz">
-  <img src="https://github-profile-trophy.vercel.app/?username=gabriel-preti-ferraz&theme=algolia&row=1&no-bg=true&margin-w=15&margin-h=15" />
-  </a>
-</p>
-<!-- Conquistas !-->  
 
           
 <!-- Imagem azul final !-->
