@@ -8,18 +8,17 @@
 <!-- Texto inicial !-->
 <p align="center"> 
   🙋‍♂️ | Hello there!<br>
-  <!-- 🎓 | No momento estou estudando Python. !-->
 </p>
 <!-- Texto inicial !-->
 
     
 <!-- Linguagens, ferramentas e contato !-->
 <p align="center">
-  🧪 | Skills: <strong>HTML, CSS, JavaScript, ReactJS, NodeJS, Python and Django</strong>
+  🧪 | Skills: <strong>HTML, CSS, JavaScript, ReactJS, NodeJS, Express, SQL, Python and Django</strong>
 </p>
 
 <p align="center">
-  💼 | Tools: <strong>Git, GitHub, Linux and Visual Studio Code</strong>
+  💼 | Tools: <strong>Git, GitHub, SQLite, Linux and Visual Studio Code</strong>
 </p>
 
 <p align="center">
