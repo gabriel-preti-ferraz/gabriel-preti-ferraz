@@ -18,7 +18,7 @@
 </p>
 
 <p align="center">
-  💼 | Tools: <strong>Git, GitHub, SQLite, Linux and Visual Studio Code</strong>
+  💼 | Tools: <strong>Git, GitHub, SQLite, PostgreSQL, Linux and Visual Studio Code</strong>
 </p>
 
 <p align="center">
